@@ -26,7 +26,7 @@ export default function Header(){
                           </Link>
                         </div>
                         <div className="flex items-center space-x-4">
-                          <Link href="/login" className="text-gray-700 hover:text-violet-600 px-3 py-2 rounded-md text-sm font-medium transition duration-200">
+                          <Link href="/entrar" className="text-gray-700 hover:text-violet-600 px-3 py-2 rounded-md text-sm font-medium transition duration-200">
                             Entrar
                           </Link>
                           <Link href="/cadastro" className="bg-gradient-to-r from-violet-600 to-indigo-600 text-white px-4 py-2 rounded-md text-sm font-medium shadow-md hover:shadow-lg transition duration-300">
